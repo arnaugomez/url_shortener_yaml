@@ -1,0 +1,10 @@
+- path: "1"
+  url: https://github.com/gophercises/urlshort
+- path: "2"
+  url: https://github.com/gophercises/urlshort/tree/solution
+- path: "3"
+  url: https://zetcode.com/golang/yaml/
+- path: "4"
+  url: https://golang.org/doc/tutorial/handle-errors
+- path: handle-errors
+  url: https://golang.org/doc/tutorial/handle-errors
